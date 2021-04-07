@@ -30,3 +30,6 @@ class Pokemon:
     #     def __init__(self,IV, ):
     #     self.max_hp = level * 10
     #     self.hp = level * 10
+
+    
+    #This is a test, Only a test
